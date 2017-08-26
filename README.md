@@ -8,5 +8,10 @@ Here are some useful websites for English learners. Hope it will help you find a
 - [Dictionary by Merriam-Webster](https://www.merriam-webster.com/) : America's most-trusted online dictionary
 
 ## Learning Vocabulary
-- [thesaurus.com](http://www.thesaurus.com/) : A dictionary of synonyms and antonyms.
-- [vocabulary.com](https://www.vocabulary.com/) : A website helps you learn new words, play games that improve your vocabulary, and explore language. If you find you are caught between words, you can visit [here](https://www.vocabulary.com/articles/chooseyourwords/) to help you make the right choice.
+- [Thesaurus.com](http://www.thesaurus.com/) : A dictionary of synonyms and antonyms.
+- [Vocabulary.com](https://www.vocabulary.com/) : A website helps you learn new words, play games that improve your vocabulary, and explore language. If you find you are caught between words, you can visit [here](https://www.vocabulary.com/articles/chooseyourwords/) to help you make the right choice.
+
+## Community
+- [English, baby](http://www.englishbaby.com/) : A website that you can learn English free and chat in English online.
+- [Englishclub](https://www.englishclub.com/) : A website that helps you learn about English, including grammar, vocabulary, forums, chat, videos and more.
+- [ESL.com](http://www.esl.com/) : ESL.com will help you find your perfect US college or university English program. 
