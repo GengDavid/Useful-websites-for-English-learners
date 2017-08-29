@@ -7,7 +7,7 @@ Here are some useful websites for English learners. Hope it will help you find a
 - [Cambridge Dictionary](http://dictionary.cambridge.org/) : The most popular dictionary and thesaurus for learners of English. Meanings and definitions of words with pronunciations and translations.
 - [Dictionary by Merriam-Webster](https://www.merriam-webster.com/) : America's most-trusted online dictionary
 - [Longman Online English Dictionary](http://www.ldoceonline.com/) : Longman English Dictionary is the leading dictionary for learners of English of all ages and levels who want to learn more about English
-- [wordreference.com](http://www.wordreference.com/) : A dictionary for English learners around the world. There is also a great language forum [here](https://forum.wordreference.com/).
+- [WordReference.com](http://www.wordreference.com/) : A dictionary for English learners around the world. There is also a great language forum [here](https://forum.wordreference.com/).
 
 ## Learning Vocabulary
 - [Thesaurus.com](http://www.thesaurus.com/) : A dictionary of synonyms and antonyms.
@@ -21,4 +21,4 @@ Here are some useful websites for English learners. Hope it will help you find a
 - [UsingEnglish.com](https://www.usingenglish.com/) : Resources to learn the English language for ESL, EFL, ESOL, and EAP students and teachers.
 
 ## Diary & journal
-- [livejournal](http://www.livejournal.com/) : LiveJournal is a unique place where people share their life stories, give advice and exchange ideas.
+- [LiveJournal](http://www.livejournal.com/) : LiveJournal is a unique place where people share their life stories, give advice and exchange ideas.
