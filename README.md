@@ -15,6 +15,7 @@ Here are some useful websites for English learners. Hope it will help you find a
 - [Vocabulary.com](https://www.vocabulary.com/) : A website helps you learn new words, play games that improve your vocabulary, and explore language. If you find you are caught between words, you can visit [here](https://www.vocabulary.com/articles/chooseyourwords/) to help you make the right choice.
 - [SKELL](https://skell.sketchengine.co.uk/run.cgi/skell) : SkELL (Sketch Engine for Language Learning) is a tool for language learners and teachers to see how phrases and words are used by real speakers.
 - [wikidiff](https://wikidiff.com) : WikiDiff can help you find the difference between words.
+- [WordHub](https://wordhub.top) : Vocabulary learning platform with etymology-based explanations, spaced repetition, and in-context reading.
 
 ## Community
 - [English, baby](http://www.englishbaby.com/) : A website that you can learn English free and chat in English online.
